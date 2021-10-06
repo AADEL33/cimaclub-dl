@@ -1,0 +1,416 @@
+09-12-2021 23:37:16 | DEBUG | Using selector: EpollSelector
+09-12-2021 23:37:18 | DEBUG | POST http://127.0.0.1:45931/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless"]}}}
+09-12-2021 23:37:18 | DEBUG | Finished Request
+09-12-2021 23:37:18 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/url {"url": "https://www.cima-club.cc/watch/\u0645\u0633\u0644\u0633\u0644-deception-\u0627\u0644\u0645\u0648\u0633\u0645-\u0627\u0644\u0627\u0648\u0644-\u0627\u0644\u062d\u0644\u0642\u0629-10-\u0627\u0644\u0639\u0627\u0634\u0631\u0629", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:20 | DEBUG | Finished Request
+09-12-2021 23:37:20 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/elements {"using": "css selector", "value": ".Hoverable", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:20 | DEBUG | Finished Request
+09-12-2021 23:37:20 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element/66362326-5c2a-4491-99cd-af1c23240ead/text {"id": "66362326-5c2a-4491-99cd-af1c23240ead", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:20 | DEBUG | Finished Request
+09-12-2021 23:37:20 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element/968a03ed-6844-440c-ab1b-bc07f90b0d8e/text {"id": "968a03ed-6844-440c-ab1b-bc07f90b0d8e", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:20 | DEBUG | Finished Request
+09-12-2021 23:37:20 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element/968a03ed-6844-440c-ab1b-bc07f90b0d8e/click {"id": "968a03ed-6844-440c-ab1b-bc07f90b0d8e", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:20 | DEBUG | Finished Request
+09-12-2021 23:37:22 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:22 | DEBUG | Finished Request
+09-12-2021 23:37:22 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:22 | DEBUG | Finished Request
+09-12-2021 23:37:22 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"handle": "CDwindow-0CD6C4AFD2DBFCF37216463B18ED242B", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:22 | DEBUG | Finished Request
+09-12-2021 23:37:22 | DEBUG | DELETE http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:23 | DEBUG | Finished Request
+09-12-2021 23:37:23 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:23 | DEBUG | Finished Request
+09-12-2021 23:37:23 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"handle": "CDwindow-F74B9EF1AFAE766888DB64A86D7FB9A7", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:23 | DEBUG | Finished Request
+09-12-2021 23:37:25 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/elements {"using": "css selector", "value": "video", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:25 | DEBUG | Finished Request
+09-12-2021 23:37:28 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element {"using": "css selector", "value": "body", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:28 | DEBUG | Finished Request
+09-12-2021 23:37:28 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element/f1270cb2-5867-4f66-9618-e84be252bb6b/click {"id": "f1270cb2-5867-4f66-9618-e84be252bb6b", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:28 | DEBUG | Finished Request
+09-12-2021 23:37:30 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:30 | DEBUG | Finished Request
+09-12-2021 23:37:30 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:30 | DEBUG | Finished Request
+09-12-2021 23:37:30 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"handle": "CDwindow-F74B9EF1AFAE766888DB64A86D7FB9A7", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:30 | DEBUG | Finished Request
+09-12-2021 23:37:30 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/elements {"using": "css selector", "value": "video", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:30 | DEBUG | Finished Request
+09-12-2021 23:37:33 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element {"using": "css selector", "value": "body", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:33 | DEBUG | Finished Request
+09-12-2021 23:37:33 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element/f1270cb2-5867-4f66-9618-e84be252bb6b/click {"id": "f1270cb2-5867-4f66-9618-e84be252bb6b", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:33 | DEBUG | Finished Request
+09-12-2021 23:37:35 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:35 | DEBUG | Finished Request
+09-12-2021 23:37:35 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:35 | DEBUG | Finished Request
+09-12-2021 23:37:35 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"handle": "CDwindow-81589DAF77426937AB6348508431C2F6", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:35 | DEBUG | Finished Request
+09-12-2021 23:37:35 | DEBUG | DELETE http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:35 | DEBUG | Finished Request
+09-12-2021 23:37:35 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:35 | DEBUG | Finished Request
+09-12-2021 23:37:35 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"handle": "CDwindow-F74B9EF1AFAE766888DB64A86D7FB9A7", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:35 | DEBUG | Finished Request
+09-12-2021 23:37:35 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/elements {"using": "css selector", "value": "video", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:35 | DEBUG | Finished Request
+09-12-2021 23:37:38 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element {"using": "css selector", "value": "body", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:38 | DEBUG | Finished Request
+09-12-2021 23:37:38 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element/f1270cb2-5867-4f66-9618-e84be252bb6b/click {"id": "f1270cb2-5867-4f66-9618-e84be252bb6b", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:38 | DEBUG | Finished Request
+09-12-2021 23:37:40 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:40 | DEBUG | Finished Request
+09-12-2021 23:37:40 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:40 | DEBUG | Finished Request
+09-12-2021 23:37:40 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"handle": "CDwindow-F74B9EF1AFAE766888DB64A86D7FB9A7", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:40 | DEBUG | Finished Request
+09-12-2021 23:37:40 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/elements {"using": "css selector", "value": "video", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:40 | DEBUG | Finished Request
+09-12-2021 23:37:43 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element {"using": "css selector", "value": "body", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:43 | DEBUG | Finished Request
+09-12-2021 23:37:43 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element/f1270cb2-5867-4f66-9618-e84be252bb6b/click {"id": "f1270cb2-5867-4f66-9618-e84be252bb6b", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:43 | DEBUG | Finished Request
+09-12-2021 23:37:45 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:45 | DEBUG | Finished Request
+09-12-2021 23:37:45 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:45 | DEBUG | Finished Request
+09-12-2021 23:37:45 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"handle": "CDwindow-30685B0CCA9537AC6597F6AA84A71379", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:45 | DEBUG | Finished Request
+09-12-2021 23:37:45 | DEBUG | DELETE http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:45 | DEBUG | Finished Request
+09-12-2021 23:37:45 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:45 | DEBUG | Finished Request
+09-12-2021 23:37:45 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"handle": "CDwindow-F74B9EF1AFAE766888DB64A86D7FB9A7", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:45 | DEBUG | Finished Request
+09-12-2021 23:37:45 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/elements {"using": "css selector", "value": "video", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:45 | DEBUG | Finished Request
+09-12-2021 23:37:48 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element {"using": "css selector", "value": "body", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:48 | DEBUG | Finished Request
+09-12-2021 23:37:48 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element/f1270cb2-5867-4f66-9618-e84be252bb6b/click {"id": "f1270cb2-5867-4f66-9618-e84be252bb6b", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:48 | DEBUG | Finished Request
+09-12-2021 23:37:50 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:50 | DEBUG | Finished Request
+09-12-2021 23:37:50 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:50 | DEBUG | Finished Request
+09-12-2021 23:37:50 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"handle": "CDwindow-F74B9EF1AFAE766888DB64A86D7FB9A7", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:50 | DEBUG | Finished Request
+09-12-2021 23:37:50 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/elements {"using": "css selector", "value": "video", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:50 | DEBUG | Finished Request
+09-12-2021 23:37:53 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element {"using": "css selector", "value": "body", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:53 | DEBUG | Finished Request
+09-12-2021 23:37:53 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element/f1270cb2-5867-4f66-9618-e84be252bb6b/click {"id": "f1270cb2-5867-4f66-9618-e84be252bb6b", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:53 | DEBUG | Finished Request
+09-12-2021 23:37:55 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:55 | DEBUG | Finished Request
+09-12-2021 23:37:55 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:55 | DEBUG | Finished Request
+09-12-2021 23:37:55 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"handle": "CDwindow-30CFC3494DC95B1DA6EA5558ACDA82B0", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:55 | DEBUG | Finished Request
+09-12-2021 23:37:55 | DEBUG | DELETE http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:55 | DEBUG | Finished Request
+09-12-2021 23:37:55 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:55 | DEBUG | Finished Request
+09-12-2021 23:37:55 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"handle": "CDwindow-F74B9EF1AFAE766888DB64A86D7FB9A7", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:55 | DEBUG | Finished Request
+09-12-2021 23:37:55 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/elements {"using": "css selector", "value": "video", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:55 | DEBUG | Finished Request
+09-12-2021 23:37:58 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element {"using": "css selector", "value": "body", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:58 | DEBUG | Finished Request
+09-12-2021 23:37:58 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element/f1270cb2-5867-4f66-9618-e84be252bb6b/click {"id": "f1270cb2-5867-4f66-9618-e84be252bb6b", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:37:58 | DEBUG | Finished Request
+09-12-2021 23:38:00 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:00 | DEBUG | Finished Request
+09-12-2021 23:38:00 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:00 | DEBUG | Finished Request
+09-12-2021 23:38:00 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"handle": "CDwindow-F74B9EF1AFAE766888DB64A86D7FB9A7", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:00 | DEBUG | Finished Request
+09-12-2021 23:38:00 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/elements {"using": "css selector", "value": "video", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:00 | DEBUG | Finished Request
+09-12-2021 23:38:03 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element {"using": "css selector", "value": "body", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:03 | DEBUG | Finished Request
+09-12-2021 23:38:03 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element/f1270cb2-5867-4f66-9618-e84be252bb6b/click {"id": "f1270cb2-5867-4f66-9618-e84be252bb6b", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:03 | DEBUG | Finished Request
+09-12-2021 23:38:05 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:05 | DEBUG | Finished Request
+09-12-2021 23:38:05 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:05 | DEBUG | Finished Request
+09-12-2021 23:38:05 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"handle": "CDwindow-844BCB72090DF8B193D730880AE0A5FA", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:05 | DEBUG | Finished Request
+09-12-2021 23:38:05 | DEBUG | DELETE http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:06 | DEBUG | Finished Request
+09-12-2021 23:38:06 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:06 | DEBUG | Finished Request
+09-12-2021 23:38:06 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"handle": "CDwindow-F74B9EF1AFAE766888DB64A86D7FB9A7", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:06 | DEBUG | Finished Request
+09-12-2021 23:38:06 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/elements {"using": "css selector", "value": "video", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:06 | DEBUG | Finished Request
+09-12-2021 23:38:09 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element {"using": "css selector", "value": "body", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:09 | DEBUG | Finished Request
+09-12-2021 23:38:09 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element/f1270cb2-5867-4f66-9618-e84be252bb6b/click {"id": "f1270cb2-5867-4f66-9618-e84be252bb6b", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:09 | DEBUG | Finished Request
+09-12-2021 23:38:11 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:11 | DEBUG | Finished Request
+09-12-2021 23:38:11 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:11 | DEBUG | Finished Request
+09-12-2021 23:38:11 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"handle": "CDwindow-F74B9EF1AFAE766888DB64A86D7FB9A7", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:11 | DEBUG | Finished Request
+09-12-2021 23:38:11 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/elements {"using": "css selector", "value": "video", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:11 | DEBUG | Finished Request
+09-12-2021 23:38:24 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element {"using": "css selector", "value": "body", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:24 | DEBUG | Finished Request
+09-12-2021 23:38:24 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/element/f1270cb2-5867-4f66-9618-e84be252bb6b/click {"id": "f1270cb2-5867-4f66-9618-e84be252bb6b", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:24 | DEBUG | Finished Request
+09-12-2021 23:38:26 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:26 | DEBUG | Finished Request
+09-12-2021 23:38:26 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:26 | DEBUG | Finished Request
+09-12-2021 23:38:26 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"handle": "CDwindow-A292D8616B87EC91611C76259C13A7E1", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:26 | DEBUG | Finished Request
+09-12-2021 23:38:26 | DEBUG | DELETE http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:26 | DEBUG | Finished Request
+09-12-2021 23:38:26 | DEBUG | GET http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window/handles {"sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:26 | DEBUG | Finished Request
+09-12-2021 23:38:26 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/window {"handle": "CDwindow-F74B9EF1AFAE766888DB64A86D7FB9A7", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:26 | DEBUG | Finished Request
+09-12-2021 23:38:26 | DEBUG | POST http://127.0.0.1:45931/session/f22e2b8a5da124e59bdbee71965d1f21/elements {"using": "css selector", "value": "video", "sessionId": "f22e2b8a5da124e59bdbee71965d1f21"}
+09-12-2021 23:38:26 | DEBUG | Finished Request
+09-12-2021 23:38:41 | ERROR | hello
+09-12-2021 23:38:55 | DEBUG | hello
+09-12-2021 23:41:31 | DEBUG | Using selector: EpollSelector
+09-12-2021 23:41:43 | DEBUG | Using selector: EpollSelector
+09-12-2021 23:41:51 | DEBUG | Using selector: EpollSelector
+09-12-2021 23:41:58 | DEBUG | Using selector: EpollSelector
+09-12-2021 23:41:59 | DEBUG | POST http://127.0.0.1:40323/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless", "--log-level=3"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless", "--log-level=3"]}}}
+09-12-2021 23:41:59 | DEBUG | Finished Request
+09-12-2021 23:41:59 | DEBUG | POST http://127.0.0.1:40323/session/9f97b7b9057f04280a2d7b10d28c7093/url {"url": "https://www.cima-club.cc/watch/\u0645\u0633\u0644\u0633\u0644-deception-\u0627\u0644\u0645\u0648\u0633\u0645-\u0627\u0644\u0627\u0648\u0644-\u0627\u0644\u062d\u0644\u0642\u0629-10-\u0627\u0644\u0639\u0627\u0634\u0631\u0629", "sessionId": "9f97b7b9057f04280a2d7b10d28c7093"}
+09-12-2021 23:42:08 | DEBUG | Using selector: EpollSelector
+09-12-2021 23:42:09 | DEBUG | POST http://127.0.0.1:55597/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless", "--log-level=2"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless", "--log-level=2"]}}}
+09-12-2021 23:42:09 | DEBUG | Finished Request
+09-12-2021 23:42:09 | DEBUG | POST http://127.0.0.1:55597/session/b1505438cfe25dd1138b779a52007cf2/url {"url": "https://www.cima-club.cc/watch/\u0645\u0633\u0644\u0633\u0644-deception-\u0627\u0644\u0645\u0648\u0633\u0645-\u0627\u0644\u0627\u0648\u0644-\u0627\u0644\u062d\u0644\u0642\u0629-10-\u0627\u0644\u0639\u0627\u0634\u0631\u0629", "sessionId": "b1505438cfe25dd1138b779a52007cf2"}
+09-12-2021 23:42:25 | DEBUG | Using selector: EpollSelector
+09-12-2021 23:42:26 | DEBUG | POST http://127.0.0.1:37463/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless", "--silent"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless", "--silent"]}}}
+09-12-2021 23:42:26 | DEBUG | Finished Request
+09-12-2021 23:42:26 | DEBUG | POST http://127.0.0.1:37463/session/46b913e7527408b7240cc305b51011f9/url {"url": "https://www.cima-club.cc/watch/\u0645\u0633\u0644\u0633\u0644-deception-\u0627\u0644\u0645\u0648\u0633\u0645-\u0627\u0644\u0627\u0648\u0644-\u0627\u0644\u062d\u0644\u0642\u0629-10-\u0627\u0644\u0639\u0627\u0634\u0631\u0629", "sessionId": "46b913e7527408b7240cc305b51011f9"}
+09-12-2021 23:43:29 | DEBUG | Using selector: EpollSelector
+09-12-2021 23:43:30 | DEBUG | POST http://127.0.0.1:57281/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless", "--log-level=OFF"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless", "--log-level=OFF"]}}}
+09-12-2021 23:43:30 | DEBUG | Finished Request
+09-12-2021 23:43:30 | DEBUG | POST http://127.0.0.1:57281/session/a575bf9ec1ec9a96b385063cadc2f6bc/url {"url": "https://www.cima-club.cc/watch/\u0645\u0633\u0644\u0633\u0644-deception-\u0627\u0644\u0645\u0648\u0633\u0645-\u0627\u0644\u0627\u0648\u0644-\u0627\u0644\u062d\u0644\u0642\u0629-10-\u0627\u0644\u0639\u0627\u0634\u0631\u0629", "sessionId": "a575bf9ec1ec9a96b385063cadc2f6bc"}
+09-12-2021 23:43:38 | DEBUG | Using selector: EpollSelector
+09-12-2021 23:43:39 | DEBUG | POST http://127.0.0.1:55465/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless", "--log-level=0"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless", "--log-level=0"]}}}
+09-12-2021 23:43:39 | DEBUG | Finished Request
+09-12-2021 23:43:39 | DEBUG | POST http://127.0.0.1:55465/session/44732d355b941a8f3ec54b7415e2e6ec/url {"url": "https://www.cima-club.cc/watch/\u0645\u0633\u0644\u0633\u0644-deception-\u0627\u0644\u0645\u0648\u0633\u0645-\u0627\u0644\u0627\u0648\u0644-\u0627\u0644\u062d\u0644\u0642\u0629-10-\u0627\u0644\u0639\u0627\u0634\u0631\u0629", "sessionId": "44732d355b941a8f3ec54b7415e2e6ec"}
+09-12-2021 23:44:23 | DEBUG | Using selector: EpollSelector
+09-12-2021 23:44:24 | DEBUG | POST http://127.0.0.1:41103/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"excludeSwitches": ["enable-logging"], "extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless", "--log-level=OFF"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"excludeSwitches": ["enable-logging"], "extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless", "--log-level=OFF"]}}}
+09-12-2021 23:44:24 | DEBUG | Finished Request
+09-12-2021 23:44:24 | DEBUG | POST http://127.0.0.1:41103/session/46a0c93d7e03240c303f94f75c5af2e1/url {"url": "https://www.cima-club.cc/watch/\u0645\u0633\u0644\u0633\u0644-deception-\u0627\u0644\u0645\u0648\u0633\u0645-\u0627\u0644\u0627\u0648\u0644-\u0627\u0644\u062d\u0644\u0642\u0629-10-\u0627\u0644\u0639\u0627\u0634\u0631\u0629", "sessionId": "46a0c93d7e03240c303f94f75c5af2e1"}
+09-12-2021 23:45:12 | DEBUG | Using selector: EpollSelector
+09-12-2021 23:45:13 | DEBUG | POST http://127.0.0.1:42033/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"excludeSwitches": ["enable-logging"], "extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"excludeSwitches": ["enable-logging"], "extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless"]}}}
+09-12-2021 23:45:13 | DEBUG | Finished Request
+09-12-2021 23:45:13 | DEBUG | POST http://127.0.0.1:42033/session/7abb60ca57ccbbe346cb787530b0490a/url {"url": "https://www.cima-club.cc/watch/\u0645\u0633\u0644\u0633\u0644-deception-\u0627\u0644\u0645\u0648\u0633\u0645-\u0627\u0644\u0627\u0648\u0644-\u0627\u0644\u062d\u0644\u0642\u0629-10-\u0627\u0644\u0639\u0627\u0634\u0631\u0629", "sessionId": "7abb60ca57ccbbe346cb787530b0490a"}
+09-12-2021 23:45:25 | DEBUG | Using selector: EpollSelector
+09-12-2021 23:45:26 | DEBUG | POST http://127.0.0.1:41897/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"excludeSwitches": ["enable-logging"], "extensions": [], "args": ["--headless", "--log-level=OFF"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"excludeSwitches": ["enable-logging"], "extensions": [], "args": ["--headless", "--log-level=OFF"]}}}
+09-12-2021 23:45:26 | DEBUG | Finished Request
+09-12-2021 23:45:26 | DEBUG | POST http://127.0.0.1:41897/session/7760412858546631037fa3cdaa6a8f48/url {"url": "https://www.cima-club.cc/watch/\u0645\u0633\u0644\u0633\u0644-deception-\u0627\u0644\u0645\u0648\u0633\u0645-\u0627\u0644\u0627\u0648\u0644-\u0627\u0644\u062d\u0644\u0642\u0629-10-\u0627\u0644\u0639\u0627\u0634\u0631\u0629", "sessionId": "7760412858546631037fa3cdaa6a8f48"}
+09-15-2021 14:18:36 | DEBUG | Using selector: EpollSelector
+09-15-2021 14:18:37 | DEBUG | POST http://127.0.0.1:53005/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"excludeSwitches": ["enable-logging"], "extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless", "--log-level=OFF"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"excludeSwitches": ["enable-logging"], "extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless", "--log-level=OFF"]}}}
+09-15-2021 14:18:37 | DEBUG | Finished Request
+09-15-2021 14:18:37 | DEBUG | POST http://127.0.0.1:53005/session/7f7ad489e778f23d606655d378c41989/url {"url": "https://www.cima-club.cc/watch/\u0645\u0633\u0644\u0633\u0644-deception-\u0627\u0644\u0645\u0648\u0633\u0645-\u0627\u0644\u0627\u0648\u0644-\u0627\u0644\u062d\u0644\u0642\u0629-10-\u0627\u0644\u0639\u0627\u0634\u0631\u0629", "sessionId": "7f7ad489e778f23d606655d378c41989"}
+09-15-2021 14:18:40 | DEBUG | Finished Request
+09-15-2021 14:18:40 | DEBUG | POST http://127.0.0.1:53005/session/7f7ad489e778f23d606655d378c41989/elements {"using": "css selector", "value": ".Hoverable", "sessionId": "7f7ad489e778f23d606655d378c41989"}
+09-15-2021 14:18:40 | DEBUG | Finished Request
+09-15-2021 14:18:40 | DEBUG | GET http://127.0.0.1:53005/session/7f7ad489e778f23d606655d378c41989/element/3d4e50f5-d540-4a14-afa5-6e8023972969/text {"id": "3d4e50f5-d540-4a14-afa5-6e8023972969", "sessionId": "7f7ad489e778f23d606655d378c41989"}
+09-15-2021 14:18:40 | DEBUG | Finished Request
+09-15-2021 14:18:40 | DEBUG | GET http://127.0.0.1:53005/session/7f7ad489e778f23d606655d378c41989/element/5d035d49-5e75-44db-86c2-18d44b71e0ff/text {"id": "5d035d49-5e75-44db-86c2-18d44b71e0ff", "sessionId": "7f7ad489e778f23d606655d378c41989"}
+09-15-2021 14:18:40 | DEBUG | Finished Request
+09-15-2021 14:18:40 | DEBUG | POST http://127.0.0.1:53005/session/7f7ad489e778f23d606655d378c41989/element/5d035d49-5e75-44db-86c2-18d44b71e0ff/click {"id": "5d035d49-5e75-44db-86c2-18d44b71e0ff", "sessionId": "7f7ad489e778f23d606655d378c41989"}
+09-15-2021 14:18:40 | DEBUG | Finished Request
+09-15-2021 14:18:42 | DEBUG | GET http://127.0.0.1:53005/session/7f7ad489e778f23d606655d378c41989/window/handles {"sessionId": "7f7ad489e778f23d606655d378c41989"}
+09-15-2021 14:18:42 | DEBUG | Finished Request
+09-15-2021 14:18:42 | DEBUG | GET http://127.0.0.1:53005/session/7f7ad489e778f23d606655d378c41989/window/handles {"sessionId": "7f7ad489e778f23d606655d378c41989"}
+09-15-2021 14:18:42 | DEBUG | Finished Request
+09-15-2021 14:18:42 | DEBUG | POST http://127.0.0.1:53005/session/7f7ad489e778f23d606655d378c41989/window {"handle": "CDwindow-08EE0A7E65E49FB485A3942D8A922FAF", "sessionId": "7f7ad489e778f23d606655d378c41989"}
+09-15-2021 14:18:42 | DEBUG | Finished Request
+09-15-2021 14:18:42 | DEBUG | DELETE http://127.0.0.1:53005/session/7f7ad489e778f23d606655d378c41989/window {"sessionId": "7f7ad489e778f23d606655d378c41989"}
+09-15-2021 14:18:42 | DEBUG | Finished Request
+09-15-2021 14:18:42 | DEBUG | GET http://127.0.0.1:53005/session/7f7ad489e778f23d606655d378c41989/window/handles {"sessionId": "7f7ad489e778f23d606655d378c41989"}
+09-15-2021 14:18:42 | DEBUG | Finished Request
+09-15-2021 14:18:42 | DEBUG | POST http://127.0.0.1:53005/session/7f7ad489e778f23d606655d378c41989/window {"handle": "CDwindow-7ED5AC59338D1C18E4F5524685F69D0D", "sessionId": "7f7ad489e778f23d606655d378c41989"}
+09-15-2021 14:18:42 | DEBUG | Finished Request
+09-15-2021 14:21:28 | DEBUG | Using selector: EpollSelector
+09-15-2021 14:21:29 | DEBUG | POST http://127.0.0.1:55477/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"excludeSwitches": ["enable-logging"], "extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless", "--log-level=OFF", "--incognito", "--headless"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"excludeSwitches": ["enable-logging"], "extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless", "--log-level=OFF", "--incognito", "--headless"]}}}
+09-15-2021 14:21:29 | DEBUG | Finished Request
+09-15-2021 14:21:29 | DEBUG | POST http://127.0.0.1:55477/session/808985f581ceccb42e593cee781aa903/url {"url": "https://www.cima-club.cc/watch/\u0645\u0633\u0644\u0633\u0644-deception-\u0627\u0644\u0645\u0648\u0633\u0645-\u0627\u0644\u0627\u0648\u0644-\u0627\u0644\u062d\u0644\u0642\u0629-10-\u0627\u0644\u0639\u0627\u0634\u0631\u0629", "sessionId": "808985f581ceccb42e593cee781aa903"}
+09-15-2021 14:22:46 | DEBUG | Using selector: EpollSelector
+09-15-2021 14:22:47 | DEBUG | POST http://127.0.0.1:57185/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"excludeSwitches": ["enable-logging"], "extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless", "--incognito", "--log-level=OFF"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"excludeSwitches": ["enable-logging"], "extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless", "--incognito", "--log-level=OFF"]}}}
+09-15-2021 14:22:47 | DEBUG | Finished Request
+09-15-2021 14:22:47 | DEBUG | POST http://127.0.0.1:57185/session/0df69156a833c08108a6fb19879732fe/url {"url": "https://www.cima-club.cc/watch/\u0645\u0633\u0644\u0633\u0644-deception-\u0627\u0644\u0645\u0648\u0633\u0645-\u0627\u0644\u0627\u0648\u0644-\u0627\u0644\u062d\u0644\u0642\u0629-10-\u0627\u0644\u0639\u0627\u0634\u0631\u0629", "sessionId": "0df69156a833c08108a6fb19879732fe"}
+09-15-2021 14:26:06 | DEBUG | Using selector: EpollSelector
+09-15-2021 14:26:33 | DEBUG | Using selector: EpollSelector
+09-15-2021 14:26:34 | DEBUG | POST http://127.0.0.1:43141/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"excludeSwitches": ["enable-logging"], "extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless", "--disable-gpu", "--incognito", "--log-level=OFF"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"excludeSwitches": ["enable-logging"], "extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--headless", "--disable-gpu", "--incognito", "--log-level=OFF"]}}}
+09-15-2021 14:26:34 | DEBUG | Finished Request
+09-15-2021 14:26:34 | DEBUG | POST http://127.0.0.1:43141/session/66e12920d6b36ce8056c90ff5c7162a3/url {"url": "https://www.cima-club.cc/watch/\u0645\u0633\u0644\u0633\u0644-deception-\u0627\u0644\u0645\u0648\u0633\u0645-\u0627\u0644\u0627\u0648\u0644-\u0627\u0644\u062d\u0644\u0642\u0629-10-\u0627\u0644\u0639\u0627\u0634\u0631\u0629", "sessionId": "66e12920d6b36ce8056c90ff5c7162a3"}
+09-15-2021 14:27:33 | DEBUG | Using selector: EpollSelector
+09-15-2021 14:27:34 | DEBUG | POST http://127.0.0.1:60291/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"excludeSwitches": ["enable-logging"], "extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--disable-gpu", "--headless", "--disable-gpu", "--incognito", "--log-level=OFF"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"excludeSwitches": ["enable-logging"], "extensions": [], "binary": "/opt/brave.com/brave/brave-browser", "args": ["--disable-gpu", "--headless", "--disable-gpu", "--incognito", "--log-level=OFF"]}}}
+09-15-2021 14:27:34 | DEBUG | Finished Request
+09-15-2021 14:27:34 | DEBUG | POST http://127.0.0.1:60291/session/2de76ae8951828f1c0f7df230f3098e6/url {"url": "https://www.cima-club.cc/watch/\u0645\u0633\u0644\u0633\u0644-deception-\u0627\u0644\u0645\u0648\u0633\u0645-\u0627\u0644\u0627\u0648\u0644-\u0627\u0644\u062d\u0644\u0642\u0629-10-\u0627\u0644\u0639\u0627\u0634\u0631\u0629", "sessionId": "2de76ae8951828f1c0f7df230f3098e6"}
+09-15-2021 14:29:04 | DEBUG | Using selector: EpollSelector
+09-15-2021 14:29:29 | DEBUG | Using selector: EpollSelector
+09-15-2021 14:30:23 | DEBUG | Using selector: EpollSelector
+09-15-2021 14:30:56 | DEBUG | Using selector: EpollSelector
+09-15-2021 14:31:39 | DEBUG | Using selector: EpollSelector
+09-15-2021 14:33:31 | DEBUG | Using selector: EpollSelector
+09-15-2021 14:35:07 | DEBUG | Using selector: EpollSelector
+09-15-2021 14:35:10 | DEBUG | hey
+09-15-2021 15:01:14 | DEBUG | Using selector: EpollSelector
+09-15-2021 15:01:16 | DEBUG | hey
+09-15-2021 15:02:27 | DEBUG | Using selector: EpollSelector
+09-15-2021 15:02:30 | DEBUG | hey
+09-15-2021 15:11:53 | DEBUG | Using selector: EpollSelector
+09-15-2021 15:11:56 | DEBUG | hey
+09-15-2021 15:13:04 | DEBUG | Using selector: EpollSelector
+09-15-2021 15:13:07 | DEBUG | hey
+09-15-2021 15:13:42 | DEBUG | Using selector: EpollSelector
+09-15-2021 15:13:45 | DEBUG | hey
+09-15-2021 15:17:22 | DEBUG | Using selector: EpollSelector
+09-15-2021 15:17:24 | DEBUG | hey
+09-15-2021 15:19:52 | DEBUG | Using selector: EpollSelector
+09-15-2021 15:19:55 | DEBUG | hey
+09-15-2021 15:21:36 | DEBUG | Using selector: EpollSelector
+09-15-2021 15:21:38 | DEBUG | hey
+09-15-2021 15:26:46 | DEBUG | Using selector: EpollSelector
+09-15-2021 15:26:48 | DEBUG | hey
+09-15-2021 16:27:43 | DEBUG | Using selector: EpollSelector
+09-15-2021 16:27:45 | DEBUG | hey
+09-15-2021 16:28:53 | DEBUG | Using selector: EpollSelector
+09-15-2021 16:28:55 | DEBUG | hey
+09-15-2021 16:35:01 | DEBUG | Using selector: EpollSelector
+09-15-2021 16:35:03 | DEBUG | hey
+09-15-2021 16:37:37 | DEBUG | Using selector: EpollSelector
+09-15-2021 16:37:40 | DEBUG | hey
+09-15-2021 16:38:13 | DEBUG | Using selector: EpollSelector
+09-15-2021 16:38:16 | DEBUG | hey
+09-15-2021 16:58:39 | DEBUG | Using selector: EpollSelector
+09-15-2021 17:00:22 | DEBUG | Using selector: EpollSelector
+09-15-2021 17:11:08 | DEBUG | Using selector: EpollSelector
+09-15-2021 17:11:20 | DEBUG | Using selector: EpollSelector
+09-15-2021 17:16:46 | DEBUG | Using selector: EpollSelector
+09-15-2021 17:16:49 | DEBUG | hey
+09-15-2021 17:17:50 | DEBUG | Using selector: EpollSelector
+09-15-2021 17:17:53 | DEBUG | hey
+09-15-2021 17:18:02 | DEBUG | sleeping...
+09-15-2021 17:18:07 | DEBUG | sleeping...
+09-15-2021 17:18:11 | DEBUG | sleeping...
+09-15-2021 17:18:15 | DEBUG | sleeping...
+09-15-2021 17:18:20 | DEBUG | sleeping...
+09-15-2021 17:18:24 | DEBUG | sleeping...
+09-15-2021 17:18:28 | DEBUG | sleeping...
+09-15-2021 17:18:33 | DEBUG | sleeping...
+09-15-2021 17:18:50 | DEBUG | Using selector: EpollSelector
+09-15-2021 17:18:52 | DEBUG | hey
+09-15-2021 17:18:59 | DEBUG | sleeping...
+09-15-2021 17:19:03 | DEBUG | sleeping...
+09-15-2021 17:19:08 | DEBUG | sleeping...
+09-15-2021 17:19:12 | DEBUG | sleeping...
+09-15-2021 17:19:17 | DEBUG | sleeping...
+09-15-2021 17:19:21 | DEBUG | sleeping...
+09-15-2021 17:19:26 | DEBUG | sleeping...
+09-15-2021 17:19:30 | DEBUG | sleeping...
+09-15-2021 17:19:35 | DEBUG | sleeping...
+09-15-2021 17:19:39 | DEBUG | sleeping...
+09-15-2021 17:20:57 | DEBUG | Using selector: EpollSelector
+09-15-2021 17:20:59 | DEBUG | hey
+09-15-2021 17:21:07 | DEBUG | sleeping...
+09-15-2021 17:21:11 | DEBUG | sleeping...
+09-15-2021 17:21:16 | DEBUG | sleeping...
+09-15-2021 17:23:37 | DEBUG | Using selector: EpollSelector
+09-15-2021 17:23:40 | DEBUG | hey
+09-15-2021 17:23:48 | DEBUG | sleeping...
+09-15-2021 17:23:52 | DEBUG | sleeping...
+09-15-2021 17:23:57 | DEBUG | sleeping...
+09-15-2021 17:24:02 | DEBUG | sleeping...
+09-15-2021 17:24:06 | DEBUG | sleeping...
+09-15-2021 17:24:10 | DEBUG | sleeping...
+09-15-2021 17:24:15 | DEBUG | sleeping...
+09-15-2021 17:24:19 | DEBUG | sleeping...
+09-15-2021 17:24:23 | DEBUG | sleeping...
+09-15-2021 17:24:28 | DEBUG | sleeping...
+09-15-2021 17:24:32 | DEBUG | sleeping...
+09-15-2021 17:24:36 | DEBUG | sleeping...
+09-15-2021 17:24:41 | DEBUG | sleeping...
+09-15-2021 17:24:45 | DEBUG | sleeping...
+09-15-2021 17:24:50 | DEBUG | sleeping...
+09-15-2021 17:24:54 | DEBUG | sleeping...
+09-15-2021 17:24:58 | DEBUG | sleeping...
+09-15-2021 17:25:09 | DEBUG | Using selector: EpollSelector
+09-15-2021 17:25:12 | DEBUG | hey
+09-15-2021 17:25:30 | DEBUG | sleeping...
+09-15-2021 17:25:34 | DEBUG | sleeping...
+09-15-2021 17:25:39 | DEBUG | sleeping...
+09-15-2021 17:25:43 | DEBUG | sleeping...
+09-15-2021 17:25:47 | DEBUG | sleeping...
+09-15-2021 17:26:34 | DEBUG | Using selector: EpollSelector
+09-15-2021 17:26:36 | DEBUG | hey
+09-15-2021 17:26:44 | DEBUG | sleeping...
+09-15-2021 17:26:48 | DEBUG | sleeping...
+09-15-2021 17:26:52 | DEBUG | sleeping...
+09-15-2021 17:26:57 | DEBUG | sleeping...
+09-15-2021 17:27:01 | DEBUG | sleeping...
+09-15-2021 17:27:27 | DEBUG | Using selector: EpollSelector
+09-15-2021 17:27:30 | DEBUG | hey
+09-15-2021 17:27:37 | DEBUG | sleeping...
+09-15-2021 17:27:42 | DEBUG | sleeping...
+09-15-2021 17:27:46 | DEBUG | sleeping...
+09-15-2021 17:27:51 | DEBUG | sleeping...
+09-15-2021 17:27:55 | DEBUG | sleeping...
+09-15-2021 17:28:32 | DEBUG | Using selector: EpollSelector
+09-15-2021 17:28:34 | DEBUG | hey
+09-15-2021 17:28:41 | DEBUG | sleeping...
+09-15-2021 17:28:46 | DEBUG | sleeping...
+09-15-2021 17:28:50 | DEBUG | sleeping...
+09-15-2021 17:28:55 | DEBUG | sleeping...
+09-15-2021 17:28:59 | DEBUG | sleeping...
+09-15-2021 17:29:40 | DEBUG | Using selector: EpollSelector
+09-15-2021 17:29:42 | DEBUG | hey
+09-15-2021 17:29:55 | DEBUG | sleeping...
+09-15-2021 17:30:00 | DEBUG | sleeping...
+09-15-2021 17:30:04 | DEBUG | sleeping...
+09-15-2021 17:30:09 | DEBUG | sleeping...
+09-15-2021 17:30:13 | DEBUG | sleeping...
+09-15-2021 17:34:22 | DEBUG | Using selector: EpollSelector
+09-15-2021 17:34:25 | DEBUG | hey
+09-15-2021 17:35:35 | DEBUG | Using selector: EpollSelector
+09-15-2021 17:35:38 | DEBUG | hey
+09-15-2021 17:35:52 | DEBUG | sleeping...
+09-15-2021 17:35:56 | DEBUG | sleeping...
+09-15-2021 17:36:01 | DEBUG | sleeping...
+09-15-2021 17:36:05 | DEBUG | sleeping...
+09-15-2021 17:36:09 | DEBUG | sleeping...
+09-15-2021 17:36:14 | DEBUG | sleeping...
+09-15-2021 17:36:19 | DEBUG | sleeping...
+09-15-2021 17:36:23 | DEBUG | sleeping...
+09-15-2021 17:36:27 | DEBUG | sleeping...
+09-15-2021 17:39:37 | DEBUG | Using selector: EpollSelector
+09-15-2021 17:39:39 | DEBUG | hey
+09-15-2021 17:39:55 | DEBUG | sleeping...
+09-15-2021 17:39:57 | DEBUG | sleeping...
+09-15-2021 17:40:00 | DEBUG | sleeping...
+09-15-2021 17:40:02 | DEBUG | sleeping...
+09-15-2021 17:40:04 | DEBUG | sleeping...
+09-15-2021 17:40:08 | DEBUG | sleeping...
+09-15-2021 17:40:10 | DEBUG | sleeping...
+09-15-2021 17:40:13 | DEBUG | sleeping...
+09-15-2021 17:40:15 | DEBUG | sleeping...
+09-15-2021 17:40:17 | DEBUG | sleeping...
+09-15-2021 17:40:26 | DEBUG | Using selector: EpollSelector
+09-15-2021 17:40:29 | DEBUG | hey
+09-15-2021 17:40:38 | DEBUG | sleeping...
+09-15-2021 17:40:40 | DEBUG | sleeping...
+09-15-2021 17:40:42 | DEBUG | sleeping...
+09-15-2021 17:40:45 | DEBUG | sleeping...
+09-15-2021 17:40:47 | DEBUG | sleeping...
+09-15-2021 17:40:50 | DEBUG | sleeping...
+09-15-2021 17:40:53 | DEBUG | sleeping...
+09-15-2021 17:40:55 | DEBUG | sleeping...
+09-15-2021 17:40:57 | DEBUG | sleeping...
+09-15-2021 17:41:00 | DEBUG | sleeping...
